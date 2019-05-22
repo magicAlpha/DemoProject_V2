@@ -1,0 +1,62 @@
+﻿2019-05-22 15:51:31,211 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint:Get Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 16:33:00,922 [NonParallelWorker] INFO NUnitFramework.Tests.GmailTest - CheckPoint: GMail test passed successfully
+2019-05-22 16:33:02,193 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Delete Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 16:33:02,219 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Delete Request API test passed
+2019-05-22 16:33:04,737 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Get Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 16:33:04,737 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Get Request API test passed
+2019-05-22 16:33:07,078 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Post Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 16:33:07,078 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Post Request API test passed
+2019-05-22 16:33:10,541 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Put Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 16:33:10,541 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Put Request API test passed
+2019-05-22 19:14:33,616 [NonParallelWorker] ERROR NUnitFramework.Tests.GmailTest - Error: GMail test failed
+NUnit.Framework.AssertionException:    Unread email verification failed
+  Expected: True
+  But was:  False
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 408
+   at NUnitFramework.Tests.GmailTest.VerifyUnreadEmail() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 48
+2019-05-22 19:44:40,751 [NonParallelWorker] ERROR NUnitFramework.Tests.GmailTest - Error: GMail test failed
+NUnit.Framework.AssertionException:   Expected: True
+  But was:  False
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 408
+   at NUnitFramework.Tests.GmailTest.VerifyGmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 30
+2019-05-22 19:44:43,937 [NonParallelWorker] ERROR NUnitFramework.Tests.GmailTest - Error: GMail test failed
+NUnit.Framework.AssertionException:    Unread email verification failed
+  Expected: True
+  But was:  False
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 408
+   at NUnitFramework.Tests.GmailTest.VerifyUnreadEmail() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 48
+2019-05-22 19:44:48,799 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Delete Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:44:48,813 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Delete Request API test passed
+2019-05-22 19:44:51,247 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Get Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:44:51,247 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Get Request API test passed
+2019-05-22 19:44:53,790 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Post Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:44:53,790 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Post Request API test passed
+2019-05-22 19:44:57,311 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Put Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:44:57,311 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Put Request API test passed
+2019-05-22 19:47:50,949 [NonParallelWorker] ERROR NUnitFramework.Tests.GmailTest - Error: GMail test failed
+NUnit.Framework.AssertionException:    Verification of Gmail login failed
+  Expected: True
+  But was:  False
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 408
+   at NUnitFramework.Tests.GmailTest.VerifyGmailLogin() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 30
+2019-05-22 19:47:53,381 [NonParallelWorker] ERROR NUnitFramework.Tests.GmailTest - Error: GMail test failed
+NUnit.Framework.AssertionException:    Unread email verification failed
+  Expected: True
+  But was:  False
+
+   at NUnit.Framework.Assert.ReportFailure(String message) in C:\src\nunit\nunit\src\NUnitFramework\framework\Assert.cs:line 408
+   at NUnitFramework.Tests.GmailTest.VerifyUnreadEmail() in D:\CSharpProjects\GmailProject\NUnitTestProject1\Tests\GmailTest.cs:line 48
+2019-05-22 19:47:58,019 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Delete Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:47:58,047 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Delete Request API test passed
+2019-05-22 19:48:00,572 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Get Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:48:00,573 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Get Request API test passed
+2019-05-22 19:48:03,012 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Post Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:48:03,012 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Post Request API test passed
+2019-05-22 19:48:06,499 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Put Request - Response Status Code is [200], Response Status is [OK]
+2019-05-22 19:48:06,500 [NonParallelWorker] INFO NUnitFramework.Tests.RestSharpAPITest - CheckPoint: Put Request API test passed
+2019-05-22 19:50:41,091 [14] INFO NUnitFramework.Tests.GmailTest - CheckPoint: GMail login test passed successfully
+2019-05-22 19:51:58,597 [NonParallelWorker] INFO NUnitFramework.Tests.GmailTest - CheckPoint: GMail login test passed successfully
