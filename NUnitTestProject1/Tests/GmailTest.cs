@@ -59,7 +59,7 @@ namespace NUnitFramework.Tests
         [TearDown]
         public void End()
         {
-            driver.Quit();
+            
         }
     }
 }

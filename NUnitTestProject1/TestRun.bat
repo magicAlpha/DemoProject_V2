@@ -1,0 +1,1 @@
+dotnet vstest D:\CSharpProjects\GmailProject\NUnitTestProject1\bin\Debug\netcoreapp2.1\GMailUnitFramework.dll

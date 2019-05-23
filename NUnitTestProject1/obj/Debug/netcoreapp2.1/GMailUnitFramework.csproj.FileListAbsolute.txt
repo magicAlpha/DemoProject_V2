@@ -45,4 +45,3 @@ D:\CSharpProjects\GmailProject\NUnitTestProject1\bin\Debug\netcoreapp2.1\GMailUn
 D:\CSharpProjects\GmailProject\NUnitTestProject1\obj\Debug\netcoreapp2.1\GMailUnitFramework.dll
 D:\CSharpProjects\GmailProject\NUnitTestProject1\obj\Debug\netcoreapp2.1\GMailUnitFramework.pdb
 D:\CSharpProjects\GmailProject\NUnitTestProject1\bin\Debug\netcoreapp2.1\log4net.config
-D:\CSharpProjects\GmailProject\NUnitTestProject1\obj\Debug\netcoreapp2.1\GMailUnitFramework.csprojAssemblyReference.cache
